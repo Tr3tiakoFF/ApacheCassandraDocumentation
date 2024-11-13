@@ -1,0 +1,6 @@
+[book]
+authors = ["Tr3tiakoFF"]
+language = "uk"
+multilingual = false
+src = "src"
+title = "Apache Cassandra Docs"
