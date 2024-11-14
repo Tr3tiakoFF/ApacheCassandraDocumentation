@@ -1,0 +1,1 @@
+# Мова запитів Apache Cassandra

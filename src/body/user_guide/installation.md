@@ -1,0 +1,1 @@
+# Встановлення Apache Cassandra
