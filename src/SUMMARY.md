@@ -9,9 +9,9 @@
 
 - [Встановлення Apache Cassandra](./body/user_guide/installation.md)
 
-- [Налаштування Apache Cassandra](./body/user_guide/configuring_over.md)
+- [Налаштування Apache Cassandra]()
 
-- [Усунення можливих несправностей Apache Cassandra](./body/user_guide/troubleshooting.md)
+- [Усунення можливих несправностей Apache Cassandra]()
 
 # Довідковий посібник
 
