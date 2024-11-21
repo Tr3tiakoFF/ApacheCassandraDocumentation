@@ -38,7 +38,7 @@
 - [Мова запитів Apache Cassandra](./body/reference_guide/cql.md)
     - [Визначення](./body/reference_guide/cql/definitions.md)
     - [Типи даних](./body/reference_guide/cql/data_types.md)
-    - []()
+    - [Визначення даних](./body/reference_guide/cql/data_definition.md)
     - []()
     - []()
     - []()
