@@ -11,7 +11,7 @@
 *Збраження, що наявні у книзі частково запозичені з офіційної документації Apache Cassandra.*
 
 *Офіційна документація станом на 12те листопада 2024р. : <https://cassandra.apache.org/doc/4.1/index.html>*
-
+https://github.com/Tr3tiakoFF/ApacheCassandraDocumentation
 *Офіційна документація найновішої версії : <https://cassandra.apache.org/doc/latest>*
 
 # Встановлення Cassandra як Debian-пакета
@@ -42,4 +42,4 @@ sudo apt install cassandra
 sudo systemctl status cassandra
 ```
 
-Тепер Cassandra має бути встановлена і готова до використання!
+Тепер Cassandra має бути встановлена і готова до використання! 
