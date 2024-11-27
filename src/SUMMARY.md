@@ -9,9 +9,9 @@
 
 - [Встановлення Apache Cassandra](./body/user_guide/installation.md)
 
-- [Налаштування Apache Cassandra]()
+- [Налаштування Apache Cassandra](./body/user_guide/setup.md)
 
-- [Усунення можливих несправностей Apache Cassandra]()
+<!-- - [Усунення можливих несправностей Apache Cassandra](./body/user_guide/troubleshooting.md) -->
 
 # Довідковий посібник
 
@@ -21,8 +21,8 @@
     - [Dynamo](./body/reference_guide/architecture/dymano.md)
     - [Движок зберігання](./body/reference_guide/architecture/storage_engine.md)
     - [CAP та гарантії](./body/reference_guide/architecture/guarantees.md)
-    - [Покращений обмін повідомленнями між вузлами]()
-    - [Покращене потокове передавання]()
+    <!-- - [Покращений обмін повідомленнями між вузлами]()
+    - [Покращене потокове передавання]() -->
 
 - [Моделювання даних Apache Cassandra](./body/reference_guide/data_modeling.md)
     - [Вступ](./body/reference_guide/data_modeling/introduction.md)
@@ -31,7 +31,7 @@
     - [Визначення запитів до програми](./body/reference_guide/data_modeling/defining_app_queries.md)
     - [Логічне моделювання даних](./body/reference_guide/data_modeling/logical_dm.md)
     - [Фізична модель даних](./body/reference_guide/data_modeling/physical_dm.md)
-    - [Оцінка та вдосконалення моделей даних]()
+    <!-- - [Оцінка та вдосконалення моделей даних]() -->
     - [Визначення схеми бази даних](./body/reference_guide/data_modeling/defining_schema.md)
     - [Інструменти моделювання даних для Cassandra](./body/reference_guide/data_modeling/cassandra_dm_tools.md)
 
@@ -54,17 +54,8 @@
 
 - [Векторний пошук Apache Cassandra](./body/reference_guide/vector_search.md)
     - [Огляд](./body/reference_guide/vector_search/overview.md)
-    - [Моделювання даних]()
-
-- [Підтримка Apache Cassandra]()
-    - [cassandra.yaml]()
-    - [cassandra-rackdc.properties]()
-    - [cassandra-env.sh]()
-    - [cassandra-topologies.properties]()
-    - [commitlog-archiving.properties]()
-    - [logback.xml]()
-    - [jvm-*]()
-    - [Відокремлення одиниць вимірювання від назв параметрів у cassandra.yaml]()
+    - [Моделювання даних](./body/reference_guide/vector_search/data_modeling.md)
+    - [Робота з векторним пошуком](./body/reference_guide/vector_search/working_with_vs.md)
 
 - [Інтерфейс командного рядка мови запитів Apache Cassandra](./body/reference_guide/sqlsh.md)
 

@@ -1,1 +1,0 @@
-# Підтримка Apache Cassandra

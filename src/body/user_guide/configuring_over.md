@@ -1,1 +1,0 @@
-# Налаштування Apache Cassandra
